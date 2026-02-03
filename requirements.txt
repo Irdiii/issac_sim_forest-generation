@@ -1,0 +1,6 @@
+# Isaac Sim 5.1 dependencies
+# Note: Isaac Sim must be installed separately from NVIDIA
+# This file lists the required Python packages that come with Isaac Sim
+
+# Core dependencies (included with Isaac Sim)
+numpy>=1.20.0
